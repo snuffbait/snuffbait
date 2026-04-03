@@ -1,6 +1,6 @@
 # Fae
 
-**Sites :3** 
+**Sites** 
 
 🔗 [snuffbait.github.io/cs2-gen/](https://snuffbait.github.io/cs2-gen/)  
 🔗 [snuffbait.github.io/user-searcher/](https://snuffbait.github.io/user-searcher/)  
