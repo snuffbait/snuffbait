@@ -5,14 +5,9 @@
 🔗 [snuffbait.github.io/cs2-gen/](https://snuffbait.github.io/cs2-gen/)  
 🔗 [snuffbait.github.io/user-searcher/](https://snuffbait.github.io/user-searcher/)  
 
-**Pronouns** 
+**Pronouns & shitty bio** 
 ```
 she/her/it/its
-```
-
-**Shitty bio** 
-
-```
 i love eating rock salt
 ```
 **Stuff i know**  
