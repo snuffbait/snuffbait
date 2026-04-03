@@ -9,7 +9,7 @@
 i love eating rock salt
 ```
 
-```Python
+```
 learning    = "html,js,python"
 fun fact    = "i love eating salt lol"
 ```
