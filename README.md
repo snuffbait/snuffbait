@@ -25,4 +25,4 @@ fun_fact    = "i love eating salt lol"
 
 ---
 *snuffbait*
-![stats](https://github-readme-stats.vercel.app/api?username=snuffbait&theme=dark&hide_border=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=snuffbait&show_icons=true&theme=gotham" alt="snuffbait" />
