@@ -10,6 +10,8 @@
 she/her/it/its
 ```
 
+**Shitty bio** 
+
 ```
 i love eating rock salt
 ```
