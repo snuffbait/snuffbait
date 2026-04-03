@@ -1,11 +1,12 @@
 # Fae
 
+**Sites :3** 
+🔗 [snuffbait.github.io/cs2-gen/](https://snuffbait.github.io/cs2-gen/)  
+🔗 [snuffbait.github.io/user-searcher/](https://snuffbait.github.io/user-searcher/)  
+
 ```
 i love eating rock salt
 ```
-
-🔗 [snuffbait.github.io/cs2-gen/](https://snuffbait.github.io/cs2-gen/)  
-🔗 [snuffbait.github.io/user-searcher/](https://snuffbait.github.io/user-searcher/)  
 
 ```python
 learning    = "html,js,python"
