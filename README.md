@@ -5,10 +5,11 @@ i love eating rock salt
 ```
 
 🔗 [snuffbait.github.io/cs2-gen/](https://snuffbait.github.io/cs2-gen/)  
+🔗 [snuffbait.github.io/user-searcher/](https://snuffbait.github.io/user-searcher/)  
 
 ```python
 learning    = "html,js,python"
-fun_fact    = "i love eating salt lol"
+fun fact    = "i love eating salt lol"
 ```
 
 **stuff**  
@@ -24,5 +25,3 @@ fun_fact    = "i love eating salt lol"
 | [user-searcher](https://github.com/snuffbait/user-searcher) | user search tool |
 
 ---
-*snuffbait*
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=snuffbait&show_icons=true&theme=gotham" alt="snuffbait" />
