@@ -9,15 +9,15 @@
 i love eating rock salt
 ```
 
-```python
+```Python
 learning    = "html,js,python"
 fun fact    = "i love eating salt lol"
 ```
 
-**stuff**  
+**Stuff**  
 `HTML` `CSS` `JavaScript` `Python`
 
-**projects**
+**Projects**
 
 | repo | desc |
 |---|---|
