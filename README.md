@@ -5,6 +5,11 @@
 🔗 [snuffbait.github.io/cs2-gen/](https://snuffbait.github.io/cs2-gen/)  
 🔗 [snuffbait.github.io/user-searcher/](https://snuffbait.github.io/user-searcher/)  
 
+**Pronouns** 
+```
+she/her/it/its
+```
+
 ```
 i love eating rock salt
 ```
