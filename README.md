@@ -15,13 +15,7 @@ she/her/it/its
 ```
 i love eating rock salt
 ```
-
-```
-learning    = "html,js,python"
-fun fact    = "i love eating salt lol"
-```
-
-**Stuff**  
+**Stuff i know**  
 `HTML` `CSS` `JavaScript` `Python`
 
 **Projects**
