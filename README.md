@@ -2,9 +2,9 @@
 
 **Sites** 
 
-🔗 [snuffbait.github.io/cs2-gen/](https://snuffbait.github.io/cs2-gen/)  
-🔗 [snuffbait.github.io/user-searcher/](https://snuffbait.github.io/user-searcher/)  
-
+🔗 [Cs2 ASCII art maker](https://snuffbait.github.io/cs2-gen/)  
+🔗 [Osint from wish](https://snuffbait.github.io/user-searcher/)  
+🔗 [Bootleg library of babel](https://snuffbait.github.io/babel/)  
 **Pronouns & shitty bio** 
 ```
 she/her/it/its
