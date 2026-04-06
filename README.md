@@ -3,7 +3,7 @@
 **Sites** 
 
 🔗 [Cs2 ASCII art maker](https://snuffbait.github.io/cs2-gen/)  
-🔗 [Osint from wish](https://snuffbait.github.io/user-searcher/)  
+🔗 [Osint tool from wish](https://snuffbait.github.io/user-searcher/)  
 🔗 [Bootleg library of babel](https://snuffbait.github.io/babel/)  
 
 **Pronouns & shitty bio** 
